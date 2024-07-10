@@ -17,7 +17,7 @@ The datasets I used were from the GOV UK data sets, I used the road casualty COL
 
 In the initial stage, I prepared the data in Excel, the following tasks I did were:
 
--  Data loading, transforming.
+- Data loading, combining and transforming.
 - Giving each column its correct format.
 - Removed any duplicates and dealt with missing values.
 - Formatted the data.
